@@ -23,7 +23,7 @@ patrickwork28@github
 
 <table style="margin: 0 auto;" width="100%">
 <tr>
-<td width="50%" valign="right">
+<td width="33%" valign="top" style="border: 1px solid #ddd; padding: 10px;">
 
 ## Skills
 
@@ -49,7 +49,7 @@ patrickwork28@github
 ![AWS DevTools](https://img.shields.io/badge/AWS_DevTools-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" style="border: 1px solid #ddd; padding: 10px;">
 
 ## My Certifications
 
@@ -71,6 +71,9 @@ patrickwork28@github
 <p align="left">
 <a href="https://www.credly.com/earner/earned/badge/a2cf6525-b82c-4b4d-be55-5f3b2e93ff2e"><img src="https://images.credly.com/size/80x80/images/1b2d8e5c-be9a-47cb-b28a-58077c1929f9/Associate_Badge_-_Information_Storage_and_Management.png" width="70"/></a>
 </p>
+
+</td>
+<td width="34%" valign="top" style="border: 1px solid #ddd; padding: 10px;">
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/patrickwork28/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
